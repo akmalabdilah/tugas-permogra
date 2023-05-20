@@ -9,9 +9,9 @@
 <p align="center">
 
 <p align="center">
-<a href="https://github.com/kyuurazz/LatihanVCS#Requirements">Requirements</a> •
-<a href="https://github.com/kyuurazz/LatihanVCS#informasi-git">Informasi</a> •
-<a href="https://github.com/kyuurazz/LatihanVCS#Tutorial">Tutorial</a>
+<a href="https://github.com/akmalabdilah/tugas-permogra#Requirements">Requirements</a> •
+<a href="https://github.com/akmalabdilah/tugas-permogra#informasi-git">Informasi</a> •
+<a href="https://github.com/akmalabdilah/tugas-permogra#Tutorial">Tutorial</a>
 </p>
 </div>
 
