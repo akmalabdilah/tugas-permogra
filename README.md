@@ -5,7 +5,7 @@
  <img src="https://user-images.githubusercontent.com/91085882/137566814-9c8c078c-1c3e-475c-b23d-7f4922f74beb.gif"/>
 </p>
 <p align="center">
-<a href="https://github.com/akmalabdilah"><img title="Author" src="https://img.shields.io/badge/Author%20-Bilal%20Hafidz-blue.svg?style=flat&logo=github"></a>
+<a href="https://github.com/akmalabdilah"><img title="Author" src="https://img.shields.io/discord/102860784329052160?color=BLUE&label=M.%20AKMAL%20AL%20ABDILAH1&logo=GITHUB&logoColor=BLACK&style=plastic"></a>
 <p align="center">
 
 <p align="center">
