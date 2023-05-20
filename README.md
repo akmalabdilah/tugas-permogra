@@ -31,7 +31,7 @@ Username dan Email. Jalankan perintah berikut:
 > git config --global user.name "username"
 > git config --global user.email "email"
 ```
-![Gambar 1](Screenshots/ss1.png)
+![Gambar 1](Screenshots/ss1.JPG)
 
 - Jalankan perintah git init. untuk membuat repository local
 ```bash
